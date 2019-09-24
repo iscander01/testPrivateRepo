@@ -7,8 +7,11 @@ assignees: ''
 
 ---
 
-**Idea title**
+# Idea title
 Express the idea in a single concise sentence
 
-**Idea description**
+# Idea description
 A clear and concise description of what the idea is.
+
+# Reward
+Idea reward value
