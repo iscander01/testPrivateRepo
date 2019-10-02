@@ -10,5 +10,8 @@ assignees: ''
 # Idea description
 A clear and concise description of what the idea is.
 
-# Reward
-Idea reward value
+# Requested Funding
+Idea requested funding value
+
+# Currency
+Idea currency value
